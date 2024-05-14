@@ -1,0 +1,1 @@
+A small tutorial project I used for my first attempt at working with the file system via Python. If you want used this, you are always welcome.
